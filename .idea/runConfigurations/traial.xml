@@ -1,0 +1,25 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="traial" type="PythonConfigurationType" factoryName="Python" singleton="false">
+    <module name="multi-research" />
+    <option name="INTERPRETER_OPTIONS" value="" />
+    <option name="PARENT_ENVS" value="true" />
+    <envs>
+      <env name="PYTHONUNBUFFERED" value="1" />
+      <env name="CUDA_VISIBLE_DEVICES" value="1" />
+    </envs>
+    <option name="SDK_HOME" value="$USER_HOME$/anaconda3/envs/py37/bin/python" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <option name="IS_MODULE_SDK" value="false" />
+    <option name="ADD_CONTENT_ROOTS" value="true" />
+    <option name="ADD_SOURCE_ROOTS" value="true" />
+    <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+    <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train.py" />
+    <option name="PARAMETERS" value="--root $USER_HOME$/Data_file/few_shot_data --seed 1 --trainer MaPLe --dataset-config-file configs/datasets/oxford_pets.yaml --config-file configs/trainers/MaPLe/vit_b16_t.yaml --output-dir output/DAPT DATASET.NUM_SHOTS 1 DATASET.SELECTION_RATIO 1.0" />
+    <option name="SHOW_COMMAND_LINE" value="false" />
+    <option name="EMULATE_TERMINAL" value="false" />
+    <option name="MODULE_MODE" value="false" />
+    <option name="REDIRECT_INPUT" value="false" />
+    <option name="INPUT_FILE" value="" />
+    <method v="2" />
+  </configuration>
+</component>
