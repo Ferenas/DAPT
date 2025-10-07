@@ -40,7 +40,7 @@ object in the visual modality.
 ## Results
 >SOTA performance is made, and such a method could be seamlessly integrated on other methods.
 
-![main figure](docs/fig.png){width=50%}
+<img src="docs/fig.png" alt="main figure" width="50%" style="max-width: 500px;">
 
 
 ## Installation 
