@@ -2,7 +2,7 @@
 
 
 
-> [**Decouple before Align: Visual Disentanglement Enhances Prompt Tuning**](https://arxiv.org/abs/2210.03117)<br>
+> [**Decouple before Align: Visual Disentanglement Enhances Prompt Tuning**](https://arxiv.org/pdf/2508.00395)<br>
 > [Fei Zhang](https://scholar.google.com/citations?hl=zh-CN&user=Omrg6UkAAAAJ), [Tianfei Zhou](https://www.tfzhou.com/), [Jiangchao Yao](https://sunarker.github.io/), [Ya Zhang](http://scholar.google.com/citations?user=pbjw9sMAAAAJ&hl=zh-CN), [Ivor W. Tsang](https://scholar.google.com.sg/citations?user=rJMOlVsAAAAJ&hl=en), [Yanfeng Wang](https://ieeexplore.ieee.org/author/37085615187)
 
 
